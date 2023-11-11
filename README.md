@@ -12,3 +12,6 @@ To use, simply clone the code and add this to a page:
     document.write('<scr'+'ipt type="text/JavaScript" src="mifareWidget/WidgetCreate.js"></scr'+'ipt>');
 </script>
 ```
+
+
+http://calc.gmss.ru/Mifare1k/
